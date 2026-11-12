@@ -198,4 +198,4 @@ This repository serves as the official landing page for Star Trek: 25th Annivers
 **Get the most recent version of Star Trek: 25th Anniversary today!**
 
 ---
-**Last updated:** 2026-11-11 23:22:23 UTC
+**Last updated:** 2026-11-12 05:59:28 UTC
